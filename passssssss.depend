@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698940164 source:d:\c\passssssss\main.cpp
+	<iostream>
+	<conio.h>
+	<algorithm>
+	<string>
+
